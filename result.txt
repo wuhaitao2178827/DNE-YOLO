@@ -1,0 +1,5 @@
+name:10000 (125) right:16 missing:0 error:0
+name:1002_0 right:5 missing:0 error:0
+name:1032 right:20 missing:4 error:0
+name:682 right:23 missing:1 error:0
+all_result: right:64 missing:5 error:0
